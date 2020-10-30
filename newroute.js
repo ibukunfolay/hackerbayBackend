@@ -15,6 +15,8 @@ import logger from './log/logger.js'
 const router = express.Router()
 router.use(bodyParser.json())
 
+let user
+
 /**
  * @param {object} verifyToken
  * @param {string} verifyToken.req [authorization]
@@ -38,6 +40,11 @@ const verifytoken = (req, res, next) => {
   }
 };
 
+/** generate token function */
+const generateToken = (data) =>{
+  return jwt.sign({user}, 'Secret key')
+}
+
 /** home route */
 router.get('/', (req, res) => {
   res.json('Welcome JAuth');
@@ -54,19 +61,13 @@ router.post('/login', (req, res) => {
     password,
   };
 
+  const token = generateToken(user)
+
   logger.info({ user })
 
-  /** gets user login && generates token */
-  jwt.sign({ user }, 'Secret key', (err, token) => {
-    if (err) {
-      logger.info(err)
-    } else {
-      res.json({
-        token,
-      });
-      logger.info({ token })
-    }
-  });
+  return res.status(200).json({...user, token})
+
+  
 });
 
 /** post route to display jsonpatch object */
@@ -122,4 +123,5 @@ router.post('/thumb', verifytoken, (req, res) => {
   });
 });
 
-export default router;
+export  {generateToken};
+export default router

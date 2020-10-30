@@ -58,3 +58,16 @@
 {"name":"applogs","hostname":"DESKTOP-J72BN00","pid":3180,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiZHVtbXkiLCJwYXNzd29yZCI6InBhc3N3b3JkIn0sImlhdCI6MTYwNDAxMTM1MH0.y6W6JSAKM1qGaA6DQF0vy4Uj8I9tIjlhIsA4NcEo82k","msg":"","time":"2020-10-29T22:42:30.836Z","v":0}
 {"name":"applogs","hostname":"DESKTOP-J72BN00","pid":3180,"level":30,"user":{},"msg":"","time":"2020-10-29T22:42:30.852Z","v":0}
 {"name":"applogs","hostname":"DESKTOP-J72BN00","pid":3180,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7fSwiaWF0IjoxNjA0MDExMzUwfQ.vTdhFIchdO74S76HV41aeROoOYvpxgvpWqBAPChCXDE","msg":"","time":"2020-10-29T22:42:30.854Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":2984,"level":30,"msg":"SERVER IS BINGO ON 2000","time":"2020-10-30T09:48:33.803Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":7120,"level":30,"msg":"SERVER IS BINGO ON 2000","time":"2020-10-30T10:04:16.803Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":396,"level":30,"msg":"SERVER IS BINGO ON 2000","time":"2020-10-30T10:05:44.095Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":1108,"level":30,"msg":"SERVER IS BINGO ON 2000","time":"2020-10-30T10:07:18.049Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":12432,"level":30,"msg":"SERVER IS BINGO ON 5000","time":"2020-10-30T10:07:38.016Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":2376,"level":30,"msg":"SERVER IS BINGO ON 5000","time":"2020-10-30T10:16:41.480Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":2376,"level":30,"msg":"Welcome JAuth","time":"2020-10-30T10:16:42.052Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":2376,"level":30,"user":{"username":"dummy","password":"password"},"msg":"","time":"2020-10-30T10:16:42.635Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":2376,"level":30,"user":{},"msg":"","time":"2020-10-30T10:16:42.731Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":14296,"level":30,"msg":"SERVER IS BINGO ON 5000","time":"2020-10-30T10:17:54.132Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":14296,"level":30,"msg":"Welcome JAuth","time":"2020-10-30T10:17:54.456Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":14296,"level":30,"user":{"username":"dummy","password":"password"},"msg":"","time":"2020-10-30T10:17:54.812Z","v":0}
+{"name":"applogs","hostname":"LAPTOP-UINE0H14","pid":14296,"level":30,"user":{},"msg":"","time":"2020-10-30T10:17:54.840Z","v":0}

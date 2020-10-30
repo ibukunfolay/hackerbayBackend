@@ -8,7 +8,7 @@ import newroute from './newroute.js'
 import logger from './log/logger.js'
 
 const app = express()
-const PORT = process.env.PORT || 2000
+const PORT = process.env.PORT || 5000
 
 /** middleware */
 app.use('/api', newroute);

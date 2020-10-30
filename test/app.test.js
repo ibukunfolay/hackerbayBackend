@@ -10,11 +10,12 @@
 import chai from 'chai'
 import chaihttp from 'chai-http'
 import app from '../server.js'
+import {generateToken} from '../newroute.js'
 
 chai.use(chaihttp)
 
 const user = { username: 'dummy', password: 'password' }
-let token
+let token = generateToken(user)
 
 /** assertion style */
 chai.should()
@@ -76,7 +77,6 @@ describe('Api Tests', () => {
       let user = {}
       chai.request(app)
         .post('/api/login')
-        .send(user)
         .end((err, response) => {
           response.should.have.status(404)
         })
