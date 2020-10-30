@@ -1,0 +1,60 @@
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":7852,"level":30,"msg":"SERVER IS BINGO ON 2000","time":"2020-10-28T21:31:43.695Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":4072,"level":30,"msg":"Welcome JAuth","time":"2020-10-28T21:32:00.721Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":4072,"level":30,"user":{"username":"ibukun","password":"bay"},"msg":"","time":"2020-10-28T21:32:00.826Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":4072,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiaWJ1a3VuIiwicGFzc3dvcmQiOiJiYXkifSwiaWF0IjoxNjAzOTIwNzIwfQ.0kd4HoEL_LJ8flubm4Q8HbHageER_qmN-OQFZJ5zn8E","msg":"","time":"2020-10-28T21:32:00.831Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":4072,"level":30,"msg":"undefined","time":"2020-10-28T21:32:00.856Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":4072,"level":30,"msg":"check token","time":"2020-10-28T21:32:00.859Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":920,"level":30,"msg":"SERVER IS BINGO ON 2000","time":"2020-10-29T21:38:00.414Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":920,"level":30,"msg":"Welcome JAuth","time":"2020-10-29T21:38:00.494Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":920,"level":30,"user":{"username":"ibukun","password":"bay"},"msg":"","time":"2020-10-29T21:38:00.799Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":920,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiaWJ1a3VuIiwicGFzc3dvcmQiOiJiYXkifSwiaWF0IjoxNjA0MDA3NDgwfQ.kr2mAXYFXMbad1KVpvyQLRh2n7SqEL2GHcCd0gD70NI","msg":"","time":"2020-10-29T21:38:00.830Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":920,"level":30,"msg":"undefined","time":"2020-10-29T21:38:00.844Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":920,"level":30,"msg":"check token","time":"2020-10-29T21:38:00.845Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":8444,"level":30,"msg":"Welcome JAuth","time":"2020-10-29T21:38:42.078Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":8444,"level":30,"user":{"username":"ibukun","password":"bay"},"msg":"","time":"2020-10-29T21:38:42.174Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":8444,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiaWJ1a3VuIiwicGFzc3dvcmQiOiJiYXkifSwiaWF0IjoxNjA0MDA3NTIyfQ.OWDNklkrYZ4yPvyWJjEJW0P6RWgM6Rxky2EQieuDSe8","msg":"","time":"2020-10-29T21:38:42.181Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":8444,"level":30,"msg":"undefined","time":"2020-10-29T21:38:42.209Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":8444,"level":30,"msg":"check token","time":"2020-10-29T21:38:42.212Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":10876,"level":30,"msg":"Welcome JAuth","time":"2020-10-29T21:38:59.781Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":10876,"level":30,"user":{"username":"ibukun","password":"bay"},"msg":"","time":"2020-10-29T21:38:59.832Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":10876,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiaWJ1a3VuIiwicGFzc3dvcmQiOiJiYXkifSwiaWF0IjoxNjA0MDA3NTM5fQ.wDOU-Wag7Q_e-Nma7mgzBvb15AdRIFu42t3bRD_FglA","msg":"","time":"2020-10-29T21:38:59.836Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":10876,"level":30,"msg":"undefined","time":"2020-10-29T21:38:59.856Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":10876,"level":30,"msg":"check token","time":"2020-10-29T21:38:59.857Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":228,"level":30,"msg":"SERVER IS BINGO ON 2000","time":"2020-10-29T21:40:28.175Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":228,"level":30,"msg":"Welcome JAuth","time":"2020-10-29T21:40:28.204Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":228,"level":30,"user":{"username":"ibukun","password":"bay"},"msg":"","time":"2020-10-29T21:40:28.283Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":228,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiaWJ1a3VuIiwicGFzc3dvcmQiOiJiYXkifSwiaWF0IjoxNjA0MDA3NjI4fQ.VLrTNH9O8-0wKlxxbtJ5t7CYZxsTVZt5hQquVshkEQU","msg":"","time":"2020-10-29T21:40:28.294Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":228,"level":30,"msg":"undefined","time":"2020-10-29T21:40:28.314Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":228,"level":30,"msg":"check token","time":"2020-10-29T21:40:28.315Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":2112,"level":30,"msg":"SERVER IS BINGO ON 2000","time":"2020-10-29T21:42:40.892Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":2112,"level":30,"msg":"Welcome JAuth","time":"2020-10-29T21:42:40.919Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":2112,"level":30,"user":{"username":"ibukun","password":"bay"},"msg":"","time":"2020-10-29T21:42:41.025Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":2112,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiaWJ1a3VuIiwicGFzc3dvcmQiOiJiYXkifSwiaWF0IjoxNjA0MDA3NzYxfQ.rUVjbJdQwSs-DecW9Ibmtke4vztZO9Ziw12FnwvPcYs","msg":"","time":"2020-10-29T21:42:41.034Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":2112,"level":30,"msg":"undefined","time":"2020-10-29T21:42:41.080Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":2112,"level":30,"msg":"check token","time":"2020-10-29T21:42:41.082Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":528,"level":30,"msg":"Welcome JAuth","time":"2020-10-29T21:54:06.812Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":528,"level":30,"user":{"username":"ibukun","password":"bay"},"msg":"","time":"2020-10-29T21:54:06.926Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":528,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiaWJ1a3VuIiwicGFzc3dvcmQiOiJiYXkifSwiaWF0IjoxNjA0MDA4NDQ2fQ.-MlQ40IrOAPaedR1JGiwX73i52DonKqt94Axb9Bo7TA","msg":"","time":"2020-10-29T21:54:06.931Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":528,"level":30,"msg":"undefined","time":"2020-10-29T21:54:07.025Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":528,"level":30,"msg":"check token","time":"2020-10-29T21:54:07.028Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":6012,"level":30,"msg":"Welcome JAuth","time":"2020-10-29T21:54:21.473Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":6012,"level":30,"user":{"username":"ibukun","password":"bay"},"msg":"","time":"2020-10-29T21:54:21.528Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":6012,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiaWJ1a3VuIiwicGFzc3dvcmQiOiJiYXkifSwiaWF0IjoxNjA0MDA4NDYxfQ.XuGi4Q0wvaGRixMFbD-TIu3d8wYtX9z2H9rVvgtnx8Q","msg":"","time":"2020-10-29T21:54:21.533Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":6012,"level":30,"msg":"undefined","time":"2020-10-29T21:54:21.549Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":6012,"level":30,"msg":"check token","time":"2020-10-29T21:54:21.551Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":11156,"level":30,"msg":"Welcome JAuth","time":"2020-10-29T21:55:48.954Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":11156,"level":30,"user":{"username":"ibukun","password":"bay"},"msg":"","time":"2020-10-29T21:55:49.009Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":11156,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiaWJ1a3VuIiwicGFzc3dvcmQiOiJiYXkifSwiaWF0IjoxNjA0MDA4NTQ5fQ.0SwUYaGzsAN_iPfZ3ewZSneXx-Vwl4k1x0XzTY4LpY4","msg":"","time":"2020-10-29T21:55:49.015Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":11156,"level":30,"msg":"undefined","time":"2020-10-29T21:55:49.033Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":11156,"level":30,"msg":"check token","time":"2020-10-29T21:55:49.034Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":11256,"level":30,"msg":"SERVER IS BINGO ON 2000","time":"2020-10-29T22:40:47.945Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":11256,"level":30,"msg":"Welcome JAuth","time":"2020-10-29T22:40:47.975Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":11256,"level":30,"user":{"username":"dummy","password":"password"},"msg":"","time":"2020-10-29T22:40:48.073Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":11256,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiZHVtbXkiLCJwYXNzd29yZCI6InBhc3N3b3JkIn0sImlhdCI6MTYwNDAxMTI0OH0.FYANyV3u3FPjmbGgOYfZ5OUz3jG__zWweVuik52QNU0","msg":"","time":"2020-10-29T22:40:48.081Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":11256,"level":30,"user":{},"msg":"","time":"2020-10-29T22:40:48.099Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":11256,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7fSwiaWF0IjoxNjA0MDExMjQ4fQ.qMfBUVI9nKHYT6qVSKo8RWwEhFZGm29RsyNwZwdC3M4","msg":"","time":"2020-10-29T22:40:48.101Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":3180,"level":30,"msg":"Welcome JAuth","time":"2020-10-29T22:42:30.720Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":3180,"level":30,"user":{"username":"dummy","password":"password"},"msg":"","time":"2020-10-29T22:42:30.830Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":3180,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiZHVtbXkiLCJwYXNzd29yZCI6InBhc3N3b3JkIn0sImlhdCI6MTYwNDAxMTM1MH0.y6W6JSAKM1qGaA6DQF0vy4Uj8I9tIjlhIsA4NcEo82k","msg":"","time":"2020-10-29T22:42:30.836Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":3180,"level":30,"user":{},"msg":"","time":"2020-10-29T22:42:30.852Z","v":0}
+{"name":"applogs","hostname":"DESKTOP-J72BN00","pid":3180,"level":30,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7fSwiaWF0IjoxNjA0MDExMzUwfQ.vTdhFIchdO74S76HV41aeROoOYvpxgvpWqBAPChCXDE","msg":"","time":"2020-10-29T22:42:30.854Z","v":0}
